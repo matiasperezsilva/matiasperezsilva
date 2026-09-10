@@ -122,7 +122,7 @@ Laboratorios y ejercicios prácticos de mi formación AWS re/Start.
 
 <div align="center">
 
-<img src="./assets/matias_after_hours_v6.gif" width="100%" alt="Matías After Hours — games, anime and side quests" />
+<img src="./assets/matias_after_hours_v7_clean.gif" width="100%" alt="Matías After Hours — games, anime and side quests" />
 
 </div>
 
