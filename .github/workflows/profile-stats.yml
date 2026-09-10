@@ -1,24 +1,45 @@
-name: Update GitHub Profile Stats
+name: Update profile stats
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: '17 3 * * *'
 
 permissions:
   contents: write
 
+concurrency:
+  group: update-profile-stats
+  cancel-in-progress: false
+
 jobs:
-  generate-stats:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd
 
-      - name: Generate profile stats
-        uses: shinpr/github-profile-stats@main
+      - uses: shinpr/github-profile-stats@49b5f7091182a45f3ef93923505b660c6da5f835
+        id: stats
         with:
-          username: matiasperezsilva
-          token: ${{ secrets.GITHUB_TOKEN }}
-          profile: default
+          username: ${{ github.repository_owner }}
+          token: ${{ github.token }}
+          profile: signal-field
+
+      - name: Stage stats
+        env:
+          READY_DIR: ${{ steps.stats.outputs.ready-dir }}
+        run: |
+          mkdir -p profile
+          cp "$READY_DIR"/signal-field-*.svg profile/
+          git add profile/signal-field-*.svg
+
+      - name: Publish stats
+        run: |
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git commit -m "Update profile stats"
+          git push
