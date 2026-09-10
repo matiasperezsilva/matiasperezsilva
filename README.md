@@ -122,7 +122,7 @@ Laboratorios y ejercicios prácticos de mi formación AWS re/Start.
 
 <div align="center">
 
-<img src="./assets/music_player.gif" width="100%" alt="Matías Now Playing animated banner" />
+<img src="./assets/now_playing_matias_v2.gif" width="100%" alt="Matías Now Playing animated banner" />
 
 </div>
 
