@@ -118,14 +118,13 @@ Laboratorios y ejercicios prácticos de mi formación AWS re/Start.
 
 ---
 
-## 🎵 Now Playing
+## 🎮 After Hours // Side Quests
 
 <div align="center">
 
-<img src="./assets/now_playing_matias_v2.gif" width="100%" alt="Matías Now Playing animated banner" />
+<img src="./assets/after_hours_side_quests.gif" width="100%" alt="Matías After Hours — games, anime and side quests" />
 
 </div>
-
 
 ---
 
