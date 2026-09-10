@@ -118,19 +118,18 @@ Laboratorios y ejercicios prácticos de mi formación AWS re/Start.
 
 ---
 
-## 📊 GitHub Stats
+## 🎵 Now Playing
 
 <div align="center">
 
-<img src="./profile/signal-field-wide-dark.svg" width="70%" alt="GitHub Stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasperezsilva&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="./assets/music_player.gif" width="92%" alt="Matías music player"/>
 
 </div>
 
+> 🥁 También soy baterista de **Gato Púrpura**. La música es una de las cosas que más disfruto fuera de la tecnología.
+
 ---
+
 
 ## 🎧 Outside Tech
 
