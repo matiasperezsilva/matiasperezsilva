@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.gif" width="100%" alt="Matías — animated music banner" />
+<img src="./assets/matias_music_header_v5.gif" width="100%" alt="Matías — animated music banner" />
 
 # 👋 Hola, soy Matías Pérez
 
@@ -122,7 +122,7 @@ Laboratorios y ejercicios prácticos de mi formación AWS re/Start.
 
 <div align="center">
 
-<img src="./assets/after_hours_side_quests.gif" width="100%" alt="Matías After Hours — games, anime and side quests" />
+<img src="./assets/matias_after_hours_v5.gif" width="100%" alt="Matías After Hours — games, anime and side quests" />
 
 </div>
 
