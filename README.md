@@ -122,13 +122,13 @@ Laboratorios y ejercicios prácticos de mi formación AWS re/Start.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=matiasperezsilva&show_icons=true&theme=tokyonight" />
+<!-- Estas dos imágenes son generadas automáticamente por GitHub Actions dentro de este repositorio -->
+<img src="./profile-stats/signal-field-dark.svg" width="48%" alt="GitHub activity stats" />
+<img src="./profile-stats/language-composition-dark.svg" width="48%" alt="Most used languages" />
 
-<img height="165" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=matiasperezsilva&theme=tokyonight" />
+<br/><br/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasperezsilva&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasperezsilva&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
