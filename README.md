@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.gif" width="100%" alt="Matías Pérez banner"/>
+<img src="./assets/banner.gif" width="100%" alt="Matías — animated music banner" />
 
 # 👋 Hola, soy Matías Pérez
 
