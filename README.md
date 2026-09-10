@@ -122,11 +122,10 @@ Laboratorios y ejercicios prácticos de mi formación AWS re/Start.
 
 <div align="center">
 
-<img src="./assets/music_player.gif" width="92%" alt="Matías music player"/>
+<img src="./assets/music_player.gif" width="100%" alt="Matías Now Playing animated banner" />
 
 </div>
 
-> 🥁 También soy baterista de **Gato Púrpura**. La música es una de las cosas que más disfruto fuera de la tecnología.
 
 ---
 
