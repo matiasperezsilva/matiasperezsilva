@@ -122,8 +122,9 @@ Laboratorios y ejercicios prácticos de mi formación AWS re/Start.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=matiasperezsilva&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasperezsilva&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=matiasperezsilva&show_icons=true&theme=tokyonight" />
+
+<img height="165" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=matiasperezsilva&theme=tokyonight" />
 
 <br/>
 
